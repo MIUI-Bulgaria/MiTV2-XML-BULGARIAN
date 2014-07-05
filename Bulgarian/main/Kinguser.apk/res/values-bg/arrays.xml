@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="second_miao_tip">
+        <item>10 Seconds</item>
+        <item>20 Seconds</item>
+        <item>30 Seconds</item>
+    </string-array>
+    <integer-array name="second_miao">
+        <item>10</item>
+        <item>20</item>
+        <item>30</item>
+    </integer-array>
+    <string-array name="log_num_tip">
+        <item>200 Records</item>
+        <item>300 Records</item>
+        <item>500 Records</item>
+    </string-array>
+    <integer-array name="log_num">
+        <item>200</item>
+        <item>300</item>
+        <item>500</item>
+    </integer-array>
+    <string-array name="time_out_response">
+        <item>Deny</item>
+        <item>Allow</item>
+    </string-array>
+    <string-array name="log_limit_time">
+        <item>One Day</item>
+        <item>One Week</item>
+        <item>One Month</item>
+    </string-array>
+    <string-array name="slider_main_tab_titles">
+        <item>@string/apps</item>
+        <item>@string/log</item>
+        <item>@string/king_tool</item>
+    </string-array>
+    <string-array name="software_uninstall_tab_titles">
+        <item>@string/tab_preinstall_software</item>
+        <item>@string/tab_personal_software</item>
+        <item>@string/tab_system_software</item>
+    </string-array>
+    <string-array name="software_backup_tab_titles">
+        <item>@string/backup_backup_title</item>
+        <item>@string/backup_restore_title</item>
+    </string-array>
+    <string-array name="king_tools_title">
+        <item>@string/software_remove_title</item>
+        <item>@string/auto_start_title</item>
+        <item>@string/backup_title</item>
+    </string-array>
+    <array name="king_tools_btn_bg">
+        <item>@drawable/software_remove_btn_selector</item>
+        <item>@drawable/autostart_btn_selector</item>
+        <item>@drawable/software_backup_btn_selector</item>
+    </array>
+    <string-array name="king_tools_intent_class_name">
+        <item>com.kingroot.kinguser.ztool.uninstall.SoftwareUninstallActivity</item>
+        <item>com.kingroot.kinguser.ztool.autostartmgr.AutoStartMgrActivity</item>
+        <item>com.kingroot.kinguser.ztool.backup.SoftwareRestoreSetActivity</item>
+    </string-array>
+</resources>
