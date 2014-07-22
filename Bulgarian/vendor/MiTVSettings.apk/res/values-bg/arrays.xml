@@ -112,7 +112,7 @@
         <item>DTMB</item>
     </string-array>
     <string-array name="display_sound_profile">
-        <item>Стандатрен режим</item>
+        <item>Стандартен режим</item>
         <item>Потребителски режим</item>
         <item>Режим шоу</item>
         <item>Филмов режим</item>
@@ -146,7 +146,7 @@
         <item>Топли</item>
     </string-array>
     <string-array name="sound_profile">
-        <item>Стандатрен режим</item>
+        <item>Стандартен режим</item>
         <item>Филмов режим</item>
         <item>Гласов режим</item>
     </string-array>
