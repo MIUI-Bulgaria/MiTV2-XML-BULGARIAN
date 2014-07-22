@@ -1,50 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="screen_ratio_atv">
-        <item>全屏拉伸</item>
-        <item>智能拉伸</item>
-        <item>原始比例</item>
-        <item>放大</item>
+        <item>Разтягане на цял екран</item>
+        <item>Интелигентно разтягане</item>
+        <item>Оригинални пропорции</item>
+        <item>Уголемяване</item>
     </string-array>
     <string-array name="screen_ratio_hdmi">
-        <item>全屏拉伸</item>
-        <item>智能缩放</item>
-        <item>原始比例</item>
-        <item>过扫描拉伸</item>
+        <item>Разтягане на цял екран</item>
+        <item>Смарт мащабиране</item>
+        <item>Оригинални пропорции</item>
+        <item>Overscan разтягане</item>
     </string-array>
     <string-array name="screen_ratio_others">
-        <item>全屏拉伸</item>
-        <item>原始比例</item>
-        <item>智能缩放</item>
+        <item>Разтягане на цял екран</item>
+        <item>Оригинални пропорции</item>
+        <item>Смарт мащабиране</item>
     </string-array>
     <string-array name="scene_mode_atv">
-        <item>标准模式</item>
-        <item>电影模式</item>
-        <item>艳丽模式</item>
-        <item>运动模式</item>
-        <item>自定义模式</item>
+        <item>Стандартен режим</item>
+        <item>Филмов режим</item>
+        <item>Разкошен режим</item>
+        <item>Режим спорт</item>
+        <item>Потребителски режим</item>
     </string-array>
     <string-array name="scene_mode_others">
-        <item>标准模式</item>
-        <item>电影模式</item>
-        <item>艳丽模式</item>
-        <item>运动模式</item>
-        <item>游戏模式</item>
-        <item>自定义模式</item>
+        <item>Стандартен режим</item>
+        <item>Филмов режим</item>
+        <item>Разкошен режим</item>
+        <item>Режим спорт</item>
+        <item>Режим игра</item>
+        <item>Потребителски режим</item>
     </string-array>
     <string-array name="three_dimension">
-        <item>关闭3D</item>
-        <item>自动识别</item>
-        <item>上下</item>
-        <item>左右</item>
-        <item>帧封装</item>
+        <item>Изключено 3D</item>
+        <item>Автоматично разпознаване</item>
+        <item>Side-by-Side</item>
+        <item>Top-and-Bottom</item>
+        <item>Frame Packing</item>
     </string-array>
     <string-array name="cec">
-        <item>关</item>
-        <item>开</item>
+        <item>Изкл.</item>
+        <item>Вкл.</item>
     </string-array>
     <string-array name="input_source_switch">
-        <item>模拟信号</item>
-        <item>DTMB信号</item>
+        <item>Аналогов сигнал</item>
+        <item>DTMB сигнал</item>
     </string-array>
 </resources>
