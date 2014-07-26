@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Xiaomi sync</string>
-    <string name="sync_item_sms_title">Sync SMS</string>
-    <string name="sync_item_sms_summary">Turn on after text messages have been sychronized.</string>
-    <string name="sub_sync_item_sms_title_wifi_only">Synchronize MMS: WLAN only</string>
-    <string name="sub_sync_item_sms_summary">Recommend to enable, otherwise it will increase data charges.</string>
-    <string name="pref_title_sync_contacts_title">Sync contacts</string>
-    <string name="pref_title_sync_display_photo_on_wifi_only">Display photos: WLAN only</string>
-    <string name="pref_summary_sync_display_photo_on_wifi_only">Recommended to enable, otherwise it will consume the network traffic</string>
-    <string name="find_device">Find device</string>
-    <string name="find_device_stop_noise">Click \"OK\" to stop sound</string>
+    <string name="app_name">Xiaomi синхронизация</string>
+    <string name="sync_item_sms_title">Синхр. на съобщения</string>
+    <string name="sync_item_sms_summary">Включете след като съобщенията на вашия телефон са синхронизирани.</string>
+    <string name="sub_sync_item_sms_title_wifi_only">Синхр. на MMS/SMS само по Wi-Fi</string>
+    <string name="sub_sync_item_sms_summary">Препоръчва се да активирате, за да не се начисляват такси за данни.</string>
+    <string name="pref_title_sync_contacts_title">Синхронизация на контакти</string>
+    <string name="pref_title_sync_display_photo_on_wifi_only">Синхр. на снимките само по Wi-Fi</string>
+    <string name="pref_summary_sync_display_photo_on_wifi_only">Препоръчва се да активирате, за да не се генерира голям трафик на данни</string>
+    <string name="find_device">Намиране на устройството</string>
+    <string name="find_device_stop_noise">Натиснете OK за заглушаване</string>
 </resources>
